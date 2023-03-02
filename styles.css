@@ -1,1 +1,39 @@
 /* Write your CSS here! */
+html {
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    display: block;
+}
+
+body {
+    font-family:'Tahoma';
+    background: #e3e3e3;
+}
+
+#mainHeading { 
+	color: red;
+}
+  
+.center{
+    text-align: center;
+  }
+
+h2 {
+    background: #233142;
+    color: white;
+}
+
+h3 {
+    background: green;
+    color: white;
+}
+
+#testP {
+    color: green;
+}
+
+figcaption {
+    color: #455d7a
+}
